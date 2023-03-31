@@ -1,0 +1,350 @@
+body{
+    background: cornsilk
+}
+body header ul li{
+margin: 0%;
+padding: 0cap;
+width: 150px;
+height: 40px;
+line-height: 10px;
+text-align: center;
+
+}
+
+
+ul{
+    list-style:none;
+}.bonjour{
+    position: relative;
+}
+
+.imgg{
+    position: relative;
+    width: 150px;
+    height: 45px;
+}
+a{
+    margin: 40px;
+    position: relative;
+    bottom: 14px;
+}
+.salut{
+    position: relative;
+    bottom: 650px;
+    left: 750px;
+    width: 500px;
+    height: 40px;
+}
+.caf{
+    position: relative;
+    bottom: 660px;
+    left: 750px;
+}
+.girl{
+    position: relative;
+    bottom: 650px;
+    left: 790px;
+    width: 400px;
+    height: 60px;
+}
+.up{
+    position: relative;
+    bottom: 650px;
+    left: 800px;
+    width: 410px;
+    height: 250px;
+}
+.use{
+    position: relative;
+    bottom: 620px;
+    left: 800px;
+    width: 400px;
+    height: 50px;
+}
+.lol{
+    position: relative;
+    bottom: 740px;
+    left: 795px;
+    width: 500px;
+    height: 50px;
+}
+.brown{
+position: relative;
+bottom: 1200px;
+height: 100px;
+width: 100px;
+left: 50px;
+font-size: 100px;
+line-height: 100px;
+text-decoration: none solid rgb(28, 30, 33);
+text-align: left;
+background-color: white;
+background: 0px;
+color: white;
+
+}
+.femme{
+    position: relative;
+    bottom: 650px;
+    width: 1200px;
+    left: 50px;
+}
+.message{
+    position: relative;
+    bottom: 600px;
+    text-align: center;
+    width: 1000px;
+    height: 300px;
+    font-size: 50px;
+    left: 100px;
+    color: black;
+}
+.bon{
+    position:relative;
+    bottom: 400px;
+    width:500px;
+    left: 50px;
+ }
+ .fam{
+    position: relative;
+    bottom: 250px;
+    left: 650px;
+ }
+ .ne{
+    position: relative;
+    color: black ;
+    bottom: 900px;
+    width: 800px;
+    left: 300px;
+    height: 300px;
+    font-family: inherit;
+    font-size: 20px;
+ }
+ .que{
+    position: relative;
+    color: black;
+    bottom: 1000px;
+    width: 800px;
+    left: 150px;
+    height: 300px;
+    font-size: 20px;
+ }
+ .caro{
+        position: relative;  
+       background-color:#111B21;
+        width: 1300px;
+        height: 600px;
+        top: 250px;
+        right: 18%;
+    
+ }
+ .bloc {
+    position: relative;
+    background-color:#111B21;
+    width: 500px
+    height: 500px;
+    top: 300px;
+  }
+  .chi{
+    position: relative;
+    bottom: 100px;
+    top: 50px;
+    left: 40px
+    }
+    .dis{
+        position: relative;
+        width: 500px;
+        height: 50px;
+        color: white;
+        left: 600px;
+        bottom: 650px;
+    }
+    .aa{
+        position: relative;
+        width: 500px;
+        height: 50px;
+        color: greenyellow;
+        left: 600px;
+        bottom: 680px;
+        
+    }
+    .v{
+        position: relative;
+        left: 650px;
+        top: 350px;
+      }
+      .les{
+        position: relative;
+        bottom: 200px;
+        left: 600px;
+        width: 100px;
+      }
+      .d{
+        position: relative;
+        left: 80px;
+        width: 275px;
+        bottom: 50px;
+      }
+     .c{
+        position: relative;
+     left: 600px;
+     width: 100px;
+     top: 100px;
+     }
+     .carre{
+        position: relative;
+        width: 1900px;
+        background-color: #e6ffda;
+        height: 500px;
+        bottom: 700px;
+        left: -15%;
+        border-end-end-radius: 35px;
+        border-bottom-left-radius: 35px;
+        z-index: 2;
+     }
+     .pp{
+        position: relative;
+        width: 500px;
+        height: 50%;
+    bottom: 600px;
+    left: 600px;
+    color: white;
+     }
+     .gg{
+        position: relative;
+        bottom: 2000px;
+     }
+     .dd{
+        position: relative;
+        bottom: 1400px;
+        left: 500px;
+     }
+     .cc{
+        position: relative;
+        bottom: 1900px;
+        height: 10px;
+        right: 25px;
+        width: -15%;
+    
+     }
+     .tt{
+        position: relative;
+        bottom: 1100px;
+        left: 50px;
+     }
+     .LL{
+        position: relative;
+        background-color: white;
+        height: 250px;
+        width: 250px;
+        bottom: 1100px;
+        border-radius: 25px;
+        left: 900px;
+        z-index: 3;
+     }
+     .LL1{
+        position: relative;
+        background-color: white;
+        height: 250px;
+        width: 250px;
+        bottom: 1350px;
+        border-radius: 25px;
+        left: 620px;
+        z-index: 3; 
+     }
+     .LL2{
+        position: relative;
+        background-color: white;
+        height: 250px;
+        width: 250px;
+        bottom: 1595px;
+        border-radius: 25px;
+        left: 350px;
+        z-index: 3;
+     }
+     .LL3{
+        position: relative;
+        background-color: white;
+        background-color: ;
+        height: 250px;
+        width: 250px;
+        bottom: 1850px;
+        border-radius: 25px;
+        left: 1175px;
+        z-index: 3;
+     }
+     .LL4{
+        position: relative;
+        background-color: white;
+        background-color: ;
+        height: 250px;
+        width: 250px;
+        bottom: 2100px;
+        border-radius: 25px;
+        left: 1450px;
+        z-index: 3;
+     }
+     .cvv{
+        position: relative;
+        background-color: #111B21;
+        height: 500px;
+        width: 1900px;
+        top: 2500px;
+        left: 27px;
+        z-index: 1;
+     }
+     h4{
+       position: relative;
+       right: 35px;
+     }
+     .surv:hover {
+        
+        color: black;
+        width: 10px;
+        bottom: 500px;
+        left: 200px;
+      }
+      .kk{
+        position: relative;
+        top: 1650px;
+        height: 12px;
+        z-index: 4;
+        width: 15%;
+        left: 520px;
+      }
+      .zz{
+        position: relative;
+        top: 1660px;
+        height: 12px;
+        z-index: 4;
+        width: 15%;
+        left: 520px;
+      }
+      .ee{
+        position: relative;
+        top: 1580px;
+        left: 800px;
+        z-index: 4;
+
+      }
+      .uu{
+        position: relative;
+        top: 1580px;
+        left: 800px;
+        z-index: 4;
+        width: 220px;
+
+      }
+      .qq{
+        position: relative;
+        top: 1380px;
+        left: 1070px;
+        z-index: 4;
+        width: 220px;
+      }
+      .qs{
+        position: relative;
+        top: 1200px;
+        z-index: 4;
+        left: 200px;
+      }

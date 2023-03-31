@@ -1,0 +1,48 @@
+body{
+    background: cornsilk
+}
+body header{
+    list-style: none;
+    margin: 5%;
+    padding: 0%;
+}
+body header ul li{
+margin: 0%;
+padding: 0cap;
+float: left;
+width: 150px;
+height: 40px;
+line-height: 10px;
+text-align: center;
+
+}
+header nav ul li a
+    display: block;
+}
+.bonjour maman{
+    display: flex;
+}
+ul{
+    list-style:none;
+}.bonjour{
+    position: relative;
+}
+
+.imgg{
+    width: 150px;
+    height: 45px;
+}
+a{
+    margin: 40px;
+    position: relative;
+    bottom: 14px;
+}
+.bonjour{
+    background-color: aliceblue;
+    position: relative;
+    left: 50px;
+    top: 100px;
+    z-index: 100px;
+}
+    
+
