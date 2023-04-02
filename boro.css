@@ -348,3 +348,81 @@ color: white;
         z-index: 4;
         left: 200px;
       }
+      .XX1{
+         position: relative;
+         top: 1200px;
+         z-index: 4;
+         left: 1325px;
+         height: 250px;
+         width: 250px
+      }
+      .XX2{
+         position: relative;
+         top: 950px;
+         z-index: 4;
+         left: 1600px;
+         height: 250px;
+         width: 300px;
+         z-index: 3;
+      }.Act{
+         position: relative;
+         top: 1110px;
+         z-index: 3;
+         left: 560px;
+         color: white;
+         height: 20px;
+      }
+      .AZZ{
+         position: relative;
+         color: white;
+         top: 1070px;
+         z-index: 3;
+         left: 730px;
+         height: 20px;
+      }
+      .II{
+         position: relative;
+         color: white;
+         top: 1030px;
+         z-index: 3;
+         left: 880px;
+         height: 20px;
+      }
+      .BB{
+         position: relative;
+         color: white;
+         top: 990px;
+         z-index: 3;
+         left: 1000px;
+         height: 20px;
+      }
+      .Az{
+         position: relative;
+         top: 960px;
+         z-index: 4;
+         left: 300px;
+         width: 10px;
+      }
+      .wq{
+         position: relative;
+         top: 1030px;
+         z-index: 4;
+         left: 315px;
+      }
+      .w{
+         position: relative;
+         left: 25px;
+         top: 80px;
+      }
+      .w{
+         position: relative;
+         left: 10px;
+         color: white;
+      }
+      .vc{
+         position: relative;
+         left: 200px;
+         color: white;
+         bottom: 70px;
+      }
+      
